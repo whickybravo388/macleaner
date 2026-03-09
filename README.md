@@ -133,7 +133,7 @@ Made with ❤️ for the macOS community
 
 ```bash
 # Клонирование репозитория
-git clone https://github.com/yourusername/maccleaner.git
+git clone https://github.com/whickybravo388/maccleaner.git
 cd maccleaner
 
 # Запуск
